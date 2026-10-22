@@ -18,3 +18,7 @@ Projects and practical exercises will be documented here as I progress.
 -Python
 -Looker Studio
 
+## Github Practice
+This section was added on my practice branch. 
+I am learning how to use branches, commits, and pull requests as part of my Analytics Engineering Journey.
+
