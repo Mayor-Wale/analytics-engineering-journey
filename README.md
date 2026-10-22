@@ -1,5 +1,5 @@
 # My Analytics Engineering Journey
-## I am building my skills analytics engineering,  advanced SQL, data modelling, and data transformation
+## I am building my skills in analytics engineering,  advanced SQL, data modelling, and data transformation
 ##Learning Roadmap
 - Create my first GitHub repository
 - Learn Git and GitHub workflows
